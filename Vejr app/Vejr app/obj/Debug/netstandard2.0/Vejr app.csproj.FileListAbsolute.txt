@@ -1,0 +1,14 @@
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\bin\Debug\netstandard2.0\Vejr app.deps.json
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\bin\Debug\netstandard2.0\Vejr app.dll
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\bin\Debug\netstandard2.0\ref\Vejr app.dll
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\bin\Debug\netstandard2.0\Vejr app.pdb
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\Vejr app.csprojAssemblyReference.cache
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\Vejr app.AssemblyInfoInputs.cache
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\Vejr app.AssemblyInfo.cs
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\Vejr app.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\Vejr app.dll
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\ref\Vejr app.dll
+C:\Users\Rasmus\source\repos\Vejr app\Vejr app\Vejr app\obj\Debug\netstandard2.0\Vejr app.pdb

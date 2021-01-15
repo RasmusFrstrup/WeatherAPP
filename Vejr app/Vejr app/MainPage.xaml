@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vejr_app.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Image Source="https://pingvinnyt.dk/wp-content/uploads/1img_1385.jpg" Aspect="Fill" Margin="-1000,0,0,-1000" HeightRequest="1000">
+            </Image>
+
+            <StackLayout>
+                <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="100">
+                    <Label Text="Vejr Appen" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                </Frame>
+            </StackLayout>
+            <Label Text="Viborg" x:Name="Viborg" FontSize="Medium"/>
+            <Label Text="DK" x:Name="Land" FontSize="Medium"/>
+            <Label Text="C" x:Name="Grader" FontSize="Medium"/>
+            <StackLayout>
+                <Label Text="Mandag" x:Name="Dag"/>
+                <Label Text="0" x:Name="Fugtighed"/>
+                <Label Text="hello" x:Name="Beskrivelse"/>
+                <Label Text="26" x:Name="Tempratur"/>
+                <Label Text="12" x:Name="Vind"/>
+
+                <Label Text="Mandag" x:Name="Dag2"/>
+                <Label Text="0" x:Name="Fugtighed2"/>
+                <Label Text="hello" x:Name="Beskrivelse2"/>
+                <Label Text="26" x:Name="Tempratur2"/>
+                <Label Text="12" x:Name="Vind2"/>
+            </StackLayout>
+        </StackLayout>
+        
+    </ScrollView>
+</ContentPage>
